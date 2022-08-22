@@ -1,6 +1,6 @@
 # ML challenge cosmology
 
-This data challenge is designed to test and validate field level inference methods for weak lensing cosmology. These include deep learning methods such as CNNs and Bayesian Hierarchical Methods. The goal is to enable groups with varying levels of expertise in lensing and cosmology develop, test and validate their codes and to help the cosmology community evaluate their performance. The challenge will comprise a learning phase and a blind challenge phase. Here we present the learning phase. For more details, see: https://www.overleaf.com/read/thwkhkvvwxyv
+This data challenge is designed to test and validate field level inference methods for weak lensing cosmology. These include deep learning methods such as CNNs and Bayesian Hierarchical Methods. The goal is to enable groups with varying levels of expertise in lensing and cosmology develop, test and validate their codes and to help the cosmology community evaluate their performance. The challenge will comprise a learning phase and a blind challenge phase. Here we present the Learning Phase A simulations, which have known cosmology and no systematics. For more details, see: https://www.overleaf.com/read/thwkhkvvwxyv
 
 
 *Map 1 [data/noiseless_patches.h5]*
@@ -19,6 +19,10 @@ Noisy convergence maps, flat-sky. 20 realisations are available. The maps are 12
 
 
 Galaxy catalogs for the Map 1 & 2 above are available on request.
+
+Learning Phase B: known cosmology and one known systematic to follow. 
+
+Challenge phase: blinded cosmology and systeamtics to follow. 
 
 Issues and Questions
 Please create an issue or email mgatti@sas.upenn.edu or bjain@physics.upenn.edu with any questions or requests.
